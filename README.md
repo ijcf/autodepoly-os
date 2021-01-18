@@ -1,4 +1,4 @@
-downloader
+autodepoly-os
 ==========
 
-Multi-thread download code for Windows
+自动化部署和初始化工具集-操作系统
